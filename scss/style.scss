@@ -1,0 +1,24 @@
+/*
+    Theme Name: SAM-IT by Samiul Hasan
+    Author: Samiul Hasan
+    Support: samdevx07@gmail.com
+    Description: Creative Web Solution
+    Version: 2.0
+*/
+
+// Google Fonts 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Poppins:300,400,500,600,700');
+
+// Remove default margin, paddig and box-siizng
+@import "./include/default";
+@import "./include/variables";
+
+
+// Header 
+@import "./header";
+
+// Footer 
+@import "./footer";
+
+// Here Is all Custom Margin & Padding 
+@import "./include/marginpadding";
